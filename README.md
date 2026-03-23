@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Raz</h1>
-<h3 align="center">An aspiring software engineer</h3>
+<h3 align="center">A vibe coder</h3>
 
 - 🔭 I’m currently working on [fitness tracker](https://github.com/elberrafart/fitness-tracker)
 
-- 🌱 I’m currently learning **Javascript, React, Express, MongoDB**
+- 🌱 I’m currently learning Claude Code vibing
 
 - 👨‍💻 All of my projects are available at [https://github.com/elberrafart](https://github.com/elberrafart)
 
